@@ -1,4 +1,4 @@
---- Keybind to open for pc is "comma" -> " z "
+--- Keybind to open for pc is "comma" -> " , "
 
 -- Made by Gi#7331
  local env=getgenv()
